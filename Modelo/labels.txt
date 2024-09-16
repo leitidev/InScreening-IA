@@ -1,3 +1,0 @@
-0 Pneumonia
-1 Normal
-2 Covid
