@@ -45,7 +45,7 @@ Utilizado para registrar a data e hora do exame.
 Utilização: A data e hora atuais são capturadas no momento da previsão e incluídas na resposta JSON, permitindo que os resultados sejam registrados com um timestamp preciso.
 
 ## Apresentação da nossa evolução 
-[Vídeo]()
+[Vídeo](https://youtu.be/vAeBzE7PTVo)
 
 ## Links Úteis
 Notebook do Modelo: https://colab.research.google.com/drive/1Yx_z55cPYoq9TpsIYg42RGZYbHALiwCN?usp=sharing
